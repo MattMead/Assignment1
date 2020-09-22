@@ -1,6 +1,8 @@
 # Assignment1
 Matt Mead
+
 2300074
+
 CPSC-350-02
 
 Here is a list of the references I used:
@@ -18,3 +20,5 @@ Here is a list of the references I used:
 6.http://www.cplusplus.com/reference/istream/iostream/
 
 7.https://www.programiz.com/cpp-programming/library-function/cstdlib/srand
+
+8.https://www.tutorialspoint.com/cplusplus/cpp_switch_statement.htm#:~:text=Advertisements,is%20checked%20for%20each%20case.
